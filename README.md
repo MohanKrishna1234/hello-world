@@ -18,3 +18,4 @@ Ref: https://github.com/arun-gupta/docker-kubernetes-hello-world
 * $docker run -p 8082:8080 helloworld
 * http://localhost:8082/hello-world-war-1.0.0
 // Its just comments for testing purpose
+// Testing files for output
