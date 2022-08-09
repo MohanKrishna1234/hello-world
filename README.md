@@ -10,7 +10,7 @@ Ref: https://github.com/arun-gupta/docker-kubernetes-hello-world
      https://github.com/efsavage/hello-world-war
 
 #####1234 Steps
-#####4567 steps
+#####78910 steps
 * Install [Docker](https://docs.docker.com/install/).
 * Clone this repository - $git clone https://github.com/chinni4321/helloworld.git
 * cd helloworld # from your root directory
